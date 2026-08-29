@@ -1,7 +1,7 @@
 # Using Linux Commands for Cybersecurity Tasks
 
 ## Scenario
-As a security professional for an organization, I was tasked with reviewing file permissions on the system used by organization's research team to ensure all users are authorized with appropriate permissions.
+As a security professional for an organization, I was tasked with reviewing file permissions on the system used by the organization's research team to ensure all users are authorized with appropriate permissions.
 
 ## Task
 To create a document based on steps I took to review and change permissions:
